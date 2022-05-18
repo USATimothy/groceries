@@ -1,0 +1,26 @@
+id	sequence	description
+1	100	aisle 20 household
+2	200	back left corner milk and eggs
+3	300	aisle 19 household
+4	400	aisle 18 household
+5	500	aisle 17 breakfast
+6	600	aisle 16 juice
+7	700	aisle 15 general
+8	900	aisle 14 general
+9	800	back center-left yogurt
+10	1000	aisle 13 general
+11	1100	aisle 12 general
+12	1200	back middle dairy
+13	1300	aisle 11 general
+14	1400	aisle 10 general
+15	1500	aisle 9a health
+16	1600	aisle 9 general
+17	1700	aisle 6 baby
+18	1800	aisle 5 ethnic
+19	1900	produce
+20	2000	meat case
+21	2100	seafood
+22	2200	bakery
+23	2400	aisle 8 frozen
+24	2300	aisle 7 frozen
+25	5000	unknown

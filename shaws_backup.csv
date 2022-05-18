@@ -1,0 +1,24 @@
+id	sequence	description
+1	400	far left
+2	800	aisle 15 (household)
+3	1200	aisle 14 (household)
+4	1600	produce
+5	2000	frozen
+6	600	back left corner
+7	700	aisle 16 (baby)
+8	1220	aisle 13 (household)
+9	680	back left (meat/eggs)
+10	1260	aisle 12 (snacks)
+11	1280	aisle 11 (candy)
+12	1300	aisle 10 (soda)
+13	1320	aisle 9 (breakfast)
+14	1340	aisle 8 (crackers)
+15	1360	aisle 7 (baking)
+16	1380	aisle 6 (general)
+17	5000	unknown
+18	650	health and wellness
+19	1550	bacon
+20	1440	world foods
+21	1400	aisle 5 (general)
+22	1370	back middle (seafood)
+23	1420	aisle 3 (pasta)
