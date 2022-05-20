@@ -1,0 +1,145 @@
+id	name	unit	pantry_location
+1	2% milk	oz	fridge
+2	apple juice	oz	fridge
+3	apples	oz	counter
+5	avocados	oz	counter
+6	baby carrots	oz	fridge
+7	baby pouches	oz	snack drawer
+8	baby spinach	oz	fridge
+9	baby wipes	oz	bedroom
+10	baked beans	oz	cabinet
+11	bananas	each	counter
+12	berries	oz	fridge
+13	black beans	oz	cabinet
+14	boneless skinless chicken breasts	oz	fridge
+15	boneless skinless chicken thighs	oz	fridge
+16	butter	oz	fridge
+17	butternut squash soup	oz	cabinet
+18	canola oil	oz	spice rack
+19	carrots	oz	fridge
+20	cashews	oz	pantry
+21	celery	oz	fridge
+22	cereal	oz	pantry
+23	clementines	each	counter
+25	coconut milk (full fat)	oz	cabinet
+26	crackers	oz	pantry
+27	cranberry juice	oz	fridge
+28	cream of chicken soup	oz	cabinet
+29	cucumber	each	fridge
+30	dark chocolate	oz	fridge
+32	dishwasher detergent	oz	under sink
+34	english muffins	oz	next to sink
+35	fish sticks	oz	freezer
+36	frozen corn	oz	freezer
+37	frozen meatballs	oz	freezer
+38	frozen peas	oz	freezer
+39	garlic	oz	counter
+40	ginger ale	oz	fridge
+41	gogurt	oz	fridge
+42	hot dog buns	oz	next to sink
+43	hot dogs	oz	fridge
+44	ice cream	oz	freezer
+45	ice cream cones	each	pantry
+46	ketchup	oz	fridge
+47	kleenex	box	laundry room
+48	large garbage bags	each	laundry room
+49	laundry detergent	oz	laundry room
+50	laundry pods	each	laundry room
+51	lima beans	oz	freezer
+52	mac&cheese	oz	cabinet
+53	meatballs	oz	freezer
+54	mountain dew	oz	laundry room
+55	new produce	oz	counter
+56	nuts	oz	pantry
+58	orange juice	oz	fridge
+59	oranges	oz	counter
+60	paper towels	roll	laundry room
+61	parmesan cheese	oz	fridge
+62	parsnips	oz	fridge
+64	pasta	oz	cabinet
+65	pasta sauce	oz	fridge
+66	peanut butter - creamy	oz	next to sink
+67	peanut butter - crunchy	oz	next to sink
+68	pears	oz	counter
+69	petite diced tomatoes	oz	cabinet
+70	pistachios	oz	pantry
+71	pork chops	oz	fridge
+72	potatoes	oz	counter
+73	raisin boxes	oz	snack drawer
+74	raisins	oz	pantry
+75	red peppers	oz	fridge
+76	red sherry vinegar	oz	next to sink
+77	rice	oz	cabinet
+78	rinse aid	oz	under sink
+79	ritz bits	oz	snack drawer
+80	saag paneer	oz	freezer
+81	salmon	oz	fridge
+83	salted butter	oz	fridge
+84	shredded cheese	oz	fridge
+85	sliced cheese	oz	fridge
+86	small garbage bags	each	laundry room
+88	sriracha	oz	fridge
+89	sugar	oz	cabinet
+90	sweet potato	oz	counter
+91	sweet potato fries	oz	freezer
+92	toilet paper	roll	laundry room
+93	tomato sauce	oz	cabinet
+94	tortillas	oz	next to sink
+95	unsalted butter	oz	fridge
+96	vegetable oil	oz	spice rack
+97	vitamins	oz	fridge
+98	whole milk	oz	fridge
+99	yellow onions	oz	counter
+82	salt	teaspoon	spice rack
+63	paprika	teaspoon	spice rack
+31	diapers size 4	each	bedroom
+101	diapers size 7	each	bedroom
+57	oats	oz	pantry
+102	rosemary	teaspoon	spice rack
+103	thyme	teaspoon	spice rack
+104	chickpeas	oz	cabinet
+105	lemon juice	teaspoon	fridge
+106	pepper	teaspoon	spice rack
+107	spinach	oz	fridge
+108	olive oil	oz	spice rack
+109	cumin	teaspoon	spice rack
+110	lentils	oz	cabinet
+111	curry powder	teaspoon	spice rack
+112	cloves	teaspoon	spice rack
+113	diced tomatoes	oz	cabinet
+114	vegetable broth	oz	cabinet
+115	red onion	oz	counter
+116	chili powder	teaspoon	spice rack
+117	cinnamon	teaspoon	spice rack
+118	kidney beans	oz	cabinet
+119	black beans	oz	cabinet
+120	corn meal	oz	cabinet
+121	flour	oz	cabinet
+122	baking powder	teaspoon	cabinet
+123	green beans	oz	fridge
+124	popcorn	oz	pantry
+125	kiwi	oz	counter
+126	veggie straws	oz	pantry
+127	apple pears	oz	counter
+24	cocoa	teaspoon	cabinet
+100	Greek yogurt	oz	fridge
+87	soft bread	oz	next to sink
+4	arnold bread	oz	next to sink
+33	eggs	each	fridge
+128	vanilla	teaspoon	cabinet
+129	protein yogurt	oz	fridge
+130	grapes	oz	fridge
+131	garam masala	teaspoon	spice rack
+132	turmeric	teaspoon	spice rack
+133	ginger	teaspoon	spice rack
+134	heavy cream	oz	fridge
+135	baking soda	teaspoon	cabinet
+136	hamburger	oz	fridge
+137	hamburger bun	oz	next to sink
+138	veggie burger	oz	freezer
+139	black tea	oz	next to sink
+140	herbal tea	oz	next to sink
+141	steak	oz	fridge
+142	corn on the cob	each	counter
+143	salsa	oz	fridge
+144	lime juice	teaspoon	fridge
