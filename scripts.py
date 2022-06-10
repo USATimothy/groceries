@@ -105,11 +105,24 @@ for e in z:
 #conn.commit()
 
 #%% Get all ingredients needed for a single dish
-dish_id=20
+dish_id=19
 command= "select \
 ingredients.name, recipes.quantity, ingredients.unit from \
 recipes join ingredients on recipes.ingredient_id = ingredients.id \
 where recipes.dish_id=" + str(dish_id)+";"
+curs.execute(command)
+stuff=curs.fetchall()
+print(stuff)
+
+#%% Get all places where an ingredient is used
+ingredient_name = "produce"
+command = "select \
+recipes.id, recipes.ingredient_id,ingredients.name,recipes.quantity, \
+ingredients.unit, dishes.name as dish from \
+recipes join dishes on recipes.dish_id = dishes.id \
+join ingredients on recipes.ingredient_id = ingredients.id \
+where recipes.ingredient_id in \
+(select id from ingredients where name like '%" + ingredient_name + "%');"
 curs.execute(command)
 stuff=curs.fetchall()
 print(stuff)

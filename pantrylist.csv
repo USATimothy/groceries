@@ -1,79 +1,82 @@
 amount	unit	description	id	location
-2	box	kleenex	47	laundry room
-70	oz	mountain dew	54	laundry room
+40	oz	mountain dew	54	laundry room
 0	roll	paper towels	60	laundry room
-0	oz	laundry detergent	49	laundry room
 0	roll	toilet paper	92	laundry room
-0	oz	baby wipes	9	bedrooms
-0	each	diapers size 7	101	bedrooms
-5	each	diapers size 4	31	bedrooms
-14	oz	fish sticks	35	freezer
-12	oz	frozen peas	38	freezer
+0	oz	laundry detergent	49	laundry room
+0	box	kleenex	47	laundry room
+15	oz	baby wipes	9	bedrooms
+10	each	diapers size 4	31	bedrooms
+6	each	diapers size 7	101	bedrooms
 0	oz	meatballs	53	freezer
-20	oz	sweet potato fries	91	freezer
-0	oz	parmesan cheese	61	fridge door
-30	oz	apple juice	2	fridge door
+0	oz	veggie burger	138	freezer
+32	oz	ice cream	44	freezer
+20	oz	frozen peas	38	freezer
+12	oz	frozen corn	36	freezer
+0	oz	salsa	143	fridge door
 0	oz	ketchup	46	fridge door
-30	oz	cranberry juice	27	fridge door
-0	oz	jelly	145	fridge door
-7.5	oz	orange juice	58	fridge door
+0	oz	salted butter	83	fridge door
+0	oz	apple juice	2	fridge door
+0	oz	sriracha	88	fridge door
 0	oz	unsalted butter	95	fridge door
-11.8	oz	berries	12	fridge fruits
+0	teaspoon	lime juice	144	fridge door
+5	oz	cranberry juice	27	fridge door
+0	oz	jelly	145	fridge door
+0	oz	orange juice	58	fridge door
 0	oz	grapes	130	fridge fruits
-0	oz	cucumber	29	fridge vegetables
-3	oz	green beans	123	fridge vegetables
+12.8	oz	berries	12	fridge fruits
+0	oz	celery	21	fridge vegetables
+0	oz	green beans	123	fridge vegetables
 0	oz	red peppers	75	fridge vegetables
-7.6	oz	celery	21	fridge vegetables
 0	oz	carrots	19	fridge vegetables
-8	oz	baby carrots	6	fridge vegetables
-0	oz	pasta sauce	65	fridge bottom shelf
-220	oz	whole milk	98	fridge bottom shelf
-0	oz	2% milk	1	fridge bottom shelf
+0	oz	baby carrots	6	fridge vegetables
+0	oz	cucumber	29	fridge vegetables
+128	oz	whole milk	98	fridge bottom shelf
+0	oz	steak	141	fridge middle shelf
+8	oz	ground beef	136	fridge middle shelf
+6	oz	hot dogs	43	fridge middle shelf
 0	each	eggs	33	fridge middle shelf
+7	oz	shredded cheese	84	fridge cheese drawer
+0	oz	gogurt	41	fridge top shelf
 10	oz	Greek yogurt	100	fridge top shelf
-3	oz	dark chocolate	30	fridge top shelf
-0	oz	protein yogurt	129	fridge top shelf
-16	oz	gogurt	41	fridge top shelf
+10.5	oz	dark chocolate	30	fridge top shelf
+5	oz	protein yogurt	129	fridge top shelf
+0.25	oz	vitamins	97	on top of fridge
 0	oz	ginger ale	40	on top of fridge
-0	oz	vitamins	97	on top of fridge
 0	teaspoon	cinnamon	117	spice rack
-0	teaspoon	cloves	112	spice rack
-0	teaspoon	curry powder	111	spice rack
 0	oz	honey	146	spice rack
-0	oz	rice	77	left cabinets
-5	oz	tomato sauce	93	left cabinets
-16	oz	pasta	64	left cabinets
-0	oz	vegetable broth	114	left cabinets
-0	oz	diced tomatoes	113	left cabinets
 0	oz	sugar	89	left cabinets
-0	oz	coconut milk (full fat)	25	left cabinets
-0	oz	lentils	110	left cabinets
-0	oz	black tea	139	right cabinets
+15	oz	black beans	13	left cabinets
+36	oz	baked beans	10	left cabinets
+0	oz	rice	77	left cabinets
+0	each	hot dog buns	42	right cabinets
+0	oz	peanut butter - creamy	66	right cabinets
+0.5	oz	black tea	139	right cabinets
 0	oz	soft bread	87	right cabinets
 0	oz	peanut butter - crunchy	67	right cabinets
-10.5	oz	peanut butter - creamy	66	right cabinets
+12	oz	arnold bread	4	right cabinets
 0	oz	herbal tea	140	right cabinets
-0	oz	arnold bread	4	right cabinets
-0	oz	rinse aid	78	under sink
+0	each	hamburger bun	137	right cabinets
+10	oz	tortillas	94	right cabinets
+2.5	oz	rinse aid	78	under sink
 0	oz	dishwasher detergent	32	under sink
-0	each	small garbage bags	86	under sink
 0	each	large garbage bags	48	under sink
+0	each	small garbage bags	86	under sink
+0	oz	nuts	56	pantry
 0	oz	oats	57	pantry
-0	oz	veggie straws	126	pantry
 0	oz	popcorn	124	pantry
-5.8	oz	raisins	74	pantry
+0	oz	raisins	74	pantry
 0	oz	crackers	26	pantry
-30	oz	nuts	56	pantry
-0	oz	raisin boxes	73	snack drawer
-5	oz	ritz bits	79	snack drawer
+0	oz	veggie straws	126	pantry
 0	oz	baby pouches	7	snack drawer
-3.6	oz	kiwi	125	counter
-7.6	oz	apples	3	counter
-4.1	oz	oranges	59	counter
-1	oz	garlic	39	counter
+0	oz	raisin boxes	73	snack drawer
+8	oz	ritz bits	79	snack drawer
 0	oz	apple pears	127	counter
-4	oz	sweet potato	90	counter
-4	oz	bananas	11	counter
-0	oz	yellow onions	99	counter
-6.8	oz	pears	68	counter
 5.2	oz	new produce	55	counter
+0	oz	oranges	59	counter
+45	oz	corn on the cob	142	counter
+0	oz	kiwi	125	counter
+8.2	oz	apples	3	counter
+7.2	oz	pears	68	counter
+0	oz	bananas	11	counter
+12	oz	potatoes	72	counter
+8	oz	avocados	5	counter
