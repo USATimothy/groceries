@@ -1,21 +1,26 @@
 dish_id	dish_name	quantity
-9	home snack	15
-8	school snack	13
-10	hot chocolate	0
+8	school snack	21
+12	home lunch	8
 11	Tim snacks	7
-12	home lunch	3
-33	beverages	5
-7	consumable supplies	5
+33	beverages	7
+7	consumable supplies	7
 6	oatmeal	5
-16	biscuits	0
+9	home snack	5
 13	boiled potatoes	1
-2	chicken fricassee	1
 5	chickpea stew	1
-1	macaroni and cheese	1
-21	peas	1
-17	rice	1
 3	salmon	1
+17	rice	1
 14	succotash	1
+21	peas	1
+4	pasta with meatballs	1
+2	chicken fricassee	1
+16	biscuits	1
+15	cornbread	0
+35	corn on the cob	0
+1	macaroni and cheese	0
+39	butternut squash ravioli	0
+40	pizza	0
+10	hot chocolate	0
 37	Mexican dip	0
 31	baked beans	0
 29	butternut squash soup	0
@@ -23,14 +28,11 @@ dish_id	dish_name	quantity
 24	chicken tikka masala	0
 18	coconut lentil curry	0
 22	corn	0
-35	corn on the cob	0
-15	cornbread	1
 19	fish sticks	0
 30	grilled cheese sandwiches	0
 26	hamburgers	0
 27	hot dogs	0
 32	ice cream	0
-4	pasta with meatballs	0
 23	saag paneer	0
 34	steak	0
 20	sweet potato fries	0

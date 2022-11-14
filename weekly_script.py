@@ -34,7 +34,7 @@ curs.execute(command)
 conn.commit()
 
 #Update dish quantities from csv file
-menu_file="weekC.csv"
+menu_file="weekA.csv"
 menu=pandas.read_csv(menu_file,delimiter="\t")
 for q,i in zip(menu["quantity"],menu["dish_id"]):
     command="update dishes set quantity = " + str(q) + " where id=" + str(i) + ";"
@@ -51,10 +51,10 @@ JOIN ingredients ON recipes.ingredient_id = ingredients.id \
 GROUP BY ingredients.id) \
 UPDATE ingredients SET amount = ta.amount FROM ta WHERE id = ta.iid;"
 curs.execute(command)
-#conn.commit()
+conn.commit()
 
 #%% Write results to csv
-store = "marketbasket"
+store = "pantry"
 command="select amount,unit,name,ingredients.id, " + store + ".description from ingredients \
 JOIN " + store + " ON ingredients." + store + "_id = " + store + ".id \
 WHERE amount>0 ORDER BY " + store + ".sequence;"
@@ -71,4 +71,4 @@ newq=pandas.read_csv(storef,delimiter="\t")
 for q,i in zip(newq["amount"],newq["id"]):
     command="update ingredients set amount = " + str(q) + " where id=" + str(i) + ";"
     curs.execute(command)
-#conn.commit()
+conn.commit()

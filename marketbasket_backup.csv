@@ -24,3 +24,5 @@ id	sequence	description
 23	2250	produce
 24	2300	bakery
 25	2600	ice cream
+26	0	unknown
+27	9999	unavailable

@@ -1,0 +1,37 @@
+amount	unit	description	id	location
+16.00	oz	potatoes	72	produce
+15.00	oz	berries	12	produce
+20.00	oz	baby carrots	6	produce
+4.00	oz	sweet potato	90	produce
+7.60	oz	green beans	123	produce
+10.10	oz	red peppers	75	produce
+3.00	oz	celery	21	produce
+6.60	oz	special produce	55	produce
+2.90	oz	cucumber	29	produce
+0.80	oz	kiwi	125	produce
+3.00	oz	oranges	59	produce
+10.40	oz	pears	68	produce
+24.00	oz	oats	57	meats
+4.00	oz	cashews	20	general
+5.00	oz	diced tomatoes	113	general
+16.00	oz	vegetable broth	114	general
+3.00	oz	peanut butter - crunchy	67	general
+8.00	oz	rice	77	general
+1.00	oz	crackers	26	general
+0.50	teaspoon	ground ginger	152	general
+8.00	oz	raisins	74	general
+0.40	oz	popcorn	124	general
+0.50	oz	unsalted butter	95	dairy
+128.00	oz	whole milk	98	dairy
+10.00	oz	Greek yogurt	100	dairy
+2.80	oz	soft bread	87	bakery
+2.40	oz	arnold bread	4	bakery
+4.00	oz	dark chocolate	30	frozen & snacks
+20.00	oz	sweet potato fries	91	frozen & snacks
+16.00	oz	frozen peas	38	frozen & snacks
+20.00	oz	gogurt	41	unavailable
+50.00	oz	ritz bits	79	unavailable
+70.00	oz	mountain dew	54	unavailable
+5.00	oz	ginger ale	40	unavailable
+2.00	oz	rinse aid	78	unavailable
+8.00	oz	dishwasher detergent	32	unavailable

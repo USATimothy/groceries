@@ -1,28 +1,23 @@
 amount	unit	description	id	location
-12.00	oz	frozen corn	36	unknown
-5.00	oz	cranberry juice	27	unknown
-8.00	oz	ground beef	136	unknown
-7.00	oz	shredded cheese	84	unknown
-12.00	oz	arnold bread	4	unknown
-2.50	oz	rinse aid	78	unknown
-40.00	oz	mountain dew	54	unknown
-0.25	oz	vitamins	97	unknown
-0.50	oz	black tea	139	unknown
-7.20	oz	pears	68	unknown
-15.00	oz	black beans	13	unknown
-5.20	oz	new produce	55	unknown
-128.00	oz	whole milk	98	aisle 1
-5.00	oz	protein yogurt	129	aisle 1
-10.00	oz	Greek yogurt	100	aisle 1
-36.00	oz	baked beans	10	aisle 2
-6.00	oz	hot dogs	43	aisle 2
-10.00	oz	tortillas	94	aisle 3
-10.50	oz	dark chocolate	30	aisle 8
-8.00	oz	ritz bits	79	aisle 18
-8.20	oz	apples	3	produce
-8.00	oz	avocados	5	produce
-12.80	oz	berries	12	produce
-45.00	oz	corn on the cob	142	produce
-12.00	oz	potatoes	72	produce
-20.00	oz	frozen peas	38	aisle 20
-32.00	oz	ice cream	44	ice cream
+5	oz	cream of chicken soup	28	unknown
+16	oz	boneless skinless chicken breasts	14	unknown
+5	oz	protein yogurt	129	aisle 1
+128	oz	whole milk	98	aisle 1
+15	oz	chickpeas	104	aisle 3
+12	oz	salmon	81	aisle 3
+8	oz	pasta	64	aisle 5
+8	oz	pasta sauce	65	aisle 5
+0.7	oz	herbal tea	140	aisle 7
+14	oz	dishwasher detergent	32	aisle 11
+3	roll	toilet paper	92	aisle 13
+10	oz	soft bread	87	aisle 18
+10	oz	nuts	56	produce
+20.7	oz	berries	12	produce
+3.9	oz	oranges	59	produce
+0.3	oz	garlic	39	produce
+3.6	oz	bananas	11	produce
+12	oz	potatoes	72	produce
+9.9	oz	special produce	55	produce
+11	oz	meatballs	53	aisle 19
+12	oz	frozen peas	38	aisle 20
+8	oz	frozen corn	36	aisle 20

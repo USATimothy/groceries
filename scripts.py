@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+g#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #Written by Timothy Fleck
 #Started early 2022
@@ -28,7 +28,7 @@ filled with the default value."""
 
     
 #collect the data from the csv files
-target_table="marketbasket"
+target_table="recipes"
 filename=target_table + ".csv"
 readfile=open(filename,encoding="utf-8")
 readobj=csv.reader(readfile,delimiter="\t")
@@ -54,19 +54,19 @@ conn.commit()
 #%%Find recipe ingredients in the database
 missing=[]
 rec=pandas.read_csv("recipes.csv",delimiter="\t")
-for item in rec["ingredient_ID"]:
+for item in rec["ingredient_id"]:
     try:
         float(item) #check if it is a number matching an ingredient id
     except:
         stritem=str(item)
         #Look for an exact match
-        command="select id,name from ingredients where name = '" + stritem + "';"
+        command="select id,name,unit from ingredients where name = '" + stritem + "';"
         curs.execute(command)
         result=curs.fetchall()
         if result:
             print(result)
         else: #Look for a near match
-            command= "select id,name from ingredients where name like '%" + stritem + "%';"
+            command= "select id,name,unit from ingredients where name like '%" + stritem + "%';"
             curs.execute(command)
             result=curs.fetchall()
             text = "No entry for " + stritem + "."
@@ -105,7 +105,7 @@ for e in z:
 #conn.commit()
 
 #%% Get all ingredients needed for a single dish
-dish_id=19
+dish_id=8
 command= "select \
 ingredients.name, recipes.quantity, ingredients.unit from \
 recipes join ingredients on recipes.ingredient_id = ingredients.id \
@@ -115,7 +115,7 @@ stuff=curs.fetchall()
 print(stuff)
 
 #%% Get all places where an ingredient is used
-ingredient_name = "produce"
+ingredient_name = "olive oil"
 command = "select \
 recipes.id, recipes.ingredient_id,ingredients.name,recipes.quantity, \
 ingredients.unit, dishes.name as dish from \
