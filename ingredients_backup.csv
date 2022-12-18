@@ -1,45 +1,45 @@
 id	name	unit	pantry_id	wegmans_id	amount	shaws_id	traderjoes_id	marketbasket_id
 1	2% milk	oz	16	2	0.00	6	4	1
 2	apple juice	oz	13	6	0.00	13	3	6
-3	apples	oz	12	19	0.00	4	1	23
+3	apples	oz	12	19	12.70	4	1	23
 4	arnold bread	oz	7	22	0.00	1	5	18
 5	avocados	oz	12	19	0.00	4	1	23
-6	baby carrots	oz	15	19	0.00	4	1	23
+6	baby carrots	oz	15	19	12.00	4	1	23
 7	baby pouches	oz	11	17	0.00	7	8	15
 8	baby spinach	oz	15	19	0.00	4	1	26
 9	baby wipes	oz	2	17	0.00	7	8	26
 10	baked beans	oz	6	7	0.00	16	3	2
-11	bananas	oz	12	19	3.60	4	1	23
-12	berries	oz	14	19	20.70	4	1	23
+11	bananas	oz	12	19	3.80	4	1	23
+12	berries	oz	14	19	20.10	4	1	23
 13	black beans	oz	6	7	0.00	17	3	3
-14	boneless skinless chicken breasts	oz	17	20	16.00	9	2	26
+14	boneless skinless chicken breasts	oz	17	20	0.00	9	2	19
 15	boneless skinless chicken thighs	oz	17	20	0.00	9	2	26
 16	butter	oz	13	12	0.00	9	4	26
 17	butternut squash soup	oz	6	13	0.00	17	3	8
-18	canola oil	oz	5	13	0.00	17	3	26
+18	canola oil	oz	5	13	0.00	17	3	3
 19	carrots	oz	15	19	0.00	4	1	26
 20	cashews	oz	10	8	0.00	10	3	23
-21	celery	oz	15	19	0.00	4	1	23
+21	celery	oz	15	19	8.10	4	1	23
 22	cereal	oz	10	5	0.00	13	3	26
 23	clementines	each	12	19	0.00	4	1	26
 24	cocoa	teaspoon	6	11	0.00	15	3	26
 25	coconut milk (full fat)	oz	6	14	0.00	20	3	3
-26	crackers	oz	10	8	0.00	14	3	18
-27	cranberry juice	oz	13	7	0.00	13	3	6
-28	cream of chicken soup	oz	6	11	5.00	16	3	26
-29	cucumber	oz	15	19	0.00	4	1	23
-30	dark chocolate	oz	19	11	0.00	11	6	8
+26	crackers	oz	10	8	12.00	14	3	18
+27	cranberry juice	oz	13	7	54.00	13	3	6
+28	cream of chicken soup	oz	6	11	0.00	16	3	8
+29	cucumber	oz	15	19	2.85	4	1	23
+30	dark chocolate	oz	19	11	10.50	11	6	8
 31	diapers size 4	each	2	17	0.00	7	8	26
-32	dishwasher detergent	oz	9	4	14.00	3	8	11
+32	dishwasher detergent	oz	9	4	0.00	3	8	11
 33	eggs	each	17	2	0.00	9	4	1
 34	english muffins	oz	7	22	0.00	17	5	26
-35	fish sticks	oz	3	23	0.00	5	6	20
-36	frozen corn	oz	3	23	8.00	5	6	20
+35	fish sticks	oz	3	23	14.00	5	6	20
+36	frozen corn	oz	3	23	0.00	5	6	20
 37	frozen meatballs	oz	3	23	0.00	5	6	26
-38	frozen peas	oz	3	23	12.00	5	6	20
-39	garlic	oz	12	19	0.30	4	1	23
+38	frozen peas	oz	3	23	0.00	5	6	20
+39	garlic	oz	12	19	0.00	4	1	23
 40	ginger ale	oz	20	7	0.00	12	8	17
-41	gogurt	oz	19	9	0.00	1	8	1
+41	gogurt	oz	19	9	32.00	1	8	1
 42	hot dog buns	each	7	22	0.00	1	5	18
 43	hot dogs	oz	17	12	0.00	19	2	2
 44	ice cream	oz	3	24	0.00	5	6	25
@@ -51,83 +51,83 @@ id	name	unit	pantry_id	wegmans_id	amount	shaws_id	traderjoes_id	marketbasket_id
 50	laundry pods	each	1	4	0.00	3	8	26
 51	lima beans	oz	3	23	0.00	5	6	26
 52	mac&cheese	oz	6	14	0.00	16	3	26
-53	meatballs	oz	3	23	11.00	5	6	19
-54	mountain dew	oz	1	10	0.00	12	8	17
-55	special produce	oz	12	19	9.90	4	1	23
-56	nuts	oz	10	11	10.00	10	2	23
-57	oats	oz	10	5	0.00	13	2	4
+53	meatballs	oz	3	23	0.00	5	6	19
+54	mountain dew	oz	1	10	70.00	12	8	17
+55	special produce	oz	12	19	0.00	4	1	23
+56	nuts	oz	10	11	0.00	10	2	23
+57	oats	oz	10	5	25.00	13	2	4
 58	orange juice	oz	13	2	0.00	17	4	1
-59	oranges	oz	12	19	3.90	4	1	23
+59	oranges	oz	12	19	0.00	4	1	23
 60	paper towels	roll	1	1	0.00	3	8	12
 61	parmesan cheese	oz	13	8	0.00	17	3	5
 62	parsnips	oz	15	19	0.00	4	1	26
 63	paprika	teaspoon	5	10	0.00	17	3	26
-64	pasta	oz	6	13	8.00	23	3	5
-65	pasta sauce	oz	16	13	8.00	17	3	5
+64	pasta	oz	6	13	16.00	23	3	5
+65	pasta sauce	oz	16	13	0.00	17	3	5
 66	peanut butter - creamy	oz	7	11	0.00	1	3	8
 67	peanut butter - crunchy	oz	7	5	0.00	1	3	8
 68	pears	oz	12	19	0.00	4	1	23
 69	petite diced tomatoes	oz	6	10	0.00	17	3	26
 70	pistachios	oz	10	8	0.00	4	2	26
 71	pork chops	oz	17	20	0.00	9	2	26
-72	potatoes	oz	12	19	12.00	4	1	23
+72	potatoes	oz	12	19	0.00	4	1	23
 73	raisin boxes	oz	11	8	0.00	15	3	12
 74	raisins	oz	10	11	0.00	15	3	12
-75	red peppers	oz	15	19	0.00	4	1	23
+75	red peppers	oz	15	19	11.15	4	1	23
 76	red sherry vinegar	oz	8	10	0.00	17	3	26
 77	rice	oz	6	14	0.00	21	3	5
 78	rinse aid	oz	9	5	0.00	3	8	11
 79	ritz bits	oz	11	8	0.00	14	8	18
 80	saag paneer	oz	3	25	0.00	5	6	26
-81	salmon	oz	17	21	12.00	22	2	3
+81	salmon	oz	17	21	0.00	22	2	3
 82	salt	teaspoon	5	10	0.00	15	3	7
 83	salted butter	oz	13	12	0.00	17	4	1
 84	shredded cheese	oz	18	12	0.00	1	4	1
 85	sliced cheese	oz	18	12	0.00	1	4	1
 86	small garbage bags	each	9	3	0.00	3	8	26
-87	soft bread	oz	7	22	10.00	1	5	18
-88	sriracha	oz	13	10	0.00	17	3	26
-89	sugar	oz	6	11	0.00	15	3	7
-90	sweet potato	oz	12	19	0.00	4	1	23
-91	sweet potato fries	oz	3	23	0.00	5	6	20
-92	toilet paper	roll	1	1	3.00	3	8	13
-93	tomato sauce	oz	6	10	0.00	21	3	5
+87	soft bread	oz	7	22	0.00	1	5	18
+88	sriracha	oz	13	10	0.00	17	3	27
+89	sugar	oz	6	11	21.00	15	3	7
+90	sweet potato	oz	12	19	4.00	4	1	23
+91	sweet potato fries	oz	3	23	20.00	5	6	20
+92	toilet paper	roll	1	1	0.00	3	8	13
+93	tomato sauce	oz	6	10	5.00	21	3	5
 94	tortillas	oz	7	18	0.00	17	3	4
-95	unsalted butter	oz	13	12	0.00	9	4	1
-96	vegetable oil	oz	5	10	0.00	16	3	26
-97	vitamins	oz	11	15	0.00	17	3	13
-98	whole milk	oz	16	2	128.00	6	4	1
+95	unsalted butter	oz	13	12	0.75	9	4	1
+96	vegetable oil	oz	5	10	0.00	16	3	3
+97	vitamins	oz	11	15	0.40	17	3	13
+98	whole milk	oz	16	2	256.00	6	4	1
 99	yellow onions	oz	12	19	0.00	4	1	23
-100	Greek yogurt	oz	19	9	0.00	1	4	1
+100	Greek yogurt	oz	19	9	14.00	1	4	1
 101	diapers size 7	each	2	17	0.00	3	8	26
 102	rosemary	teaspoon	5	11	0.00	17	3	26
 103	thyme	teaspoon	5	11	0.00	17	3	26
-104	chickpeas	oz	6	13	15.00	17	3	3
+104	chickpeas	oz	6	13	0.00	17	3	3
 105	lemon juice	teaspoon	13	8	0.00	17	3	26
 106	pepper	teaspoon	5	11	0.00	17	3	26
-107	spinach	oz	15	19	0.00	4	1	26
+107	spinach	oz	15	19	0.00	4	1	23
 108	olive oil	oz	5	13	0.00	17	3	26
 109	cumin	teaspoon	5	11	0.00	17	3	7
 110	lentils	oz	6	8	0.00	17	3	26
 111	curry powder	teaspoon	5	11	0.00	17	3	26
 112	cloves	teaspoon	5	11	0.00	17	3	26
-113	diced tomatoes	oz	6	13	0.00	21	3	5
+113	diced tomatoes	oz	6	13	5.00	21	3	5
 114	vegetable broth	oz	6	10	0.00	17	3	8
 115	red onion	oz	12	19	0.00	17	1	23
 116	chili powder	teaspoon	5	11	0.00	17	3	26
-117	cinnamon	teaspoon	5	11	0.00	17	3	26
+117	cinnamon	teaspoon	5	11	0.00	17	3	7
 118	kidney beans	oz	6	8	0.00	20	3	6
 119	black beans	oz	6	8	0.00	17	3	26
 120	corn meal	oz	6	10	0.00	15	3	26
 121	flour	oz	6	10	0.00	15	3	26
 122	baking powder	teaspoon	6	10	0.00	15	3	7
-123	green beans	oz	15	19	0.00	4	1	23
+123	green beans	oz	15	19	4.00	4	1	23
 124	popcorn	oz	10	8	0.00	10	3	12
-125	kiwi	oz	12	19	0.00	4	1	23
-126	veggie straws	oz	10	8	0.00	10	3	9
+125	kiwi	oz	12	19	2.20	4	1	23
+126	veggie straws	oz	10	8	3.20	10	3	9
 127	apple pears	oz	12	19	0.00	4	1	26
 128	vanilla	teaspoon	6	11	0.00	15	3	26
-129	protein yogurt	oz	19	9	5.00	1	8	1
+129	protein yogurt	oz	19	9	15.00	1	8	1
 130	grapes	oz	14	19	0.00	4	1	23
 131	garam masala	teaspoon	5	11	0.00	17	3	26
 132	turmeric	teaspoon	5	11	0.00	17	3	26
@@ -138,7 +138,7 @@ id	name	unit	pantry_id	wegmans_id	amount	shaws_id	traderjoes_id	marketbasket_id
 137	hamburger bun	each	7	22	0.00	1	5	18
 138	veggie burger	oz	3	23	0.00	5	6	26
 139	black tea	oz	7	8	0.00	17	3	7
-140	herbal tea	oz	7	8	0.70	17	3	7
+140	herbal tea	oz	7	8	0.00	17	3	7
 141	steak	oz	17	20	0.00	9	2	11
 142	corn on the cob	oz	12	19	0.00	4	1	23
 143	salsa	oz	13	18	0.00	17	3	2
@@ -151,6 +151,7 @@ id	name	unit	pantry_id	wegmans_id	amount	shaws_id	traderjoes_id	marketbasket_id
 150	ACT	oz	2	25	0.00	17	7	14
 151	cheese snack	oz	18	12	0.00	1	4	1
 152	ground ginger	teaspoon	5	11	0.00	17	3	7
-153	stir fry vegetables	oz	3	23	0.00	5	6	20
+153	stir fry vegetables	oz	3	23	16.00	5	6	20
 154	soy sauce	oz	13	10	0.00	17	3	26
 155	sesame oil	oz	13	10	0.00	17	3	26
+156	pepperoni	oz	3	25	0.00	17	7	5

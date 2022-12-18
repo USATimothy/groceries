@@ -1,28 +1,30 @@
 amount	unit	description	id	location
-3.50	roll	paper towels	60	aisle 20 household
-12.00	each	eggs	33	back left corner milk and eggs
-128.00	oz	whole milk	98	back left corner milk and eggs
-3.50	oz	rinse aid	78	aisle 18 household
-42.00	oz	cranberry juice	27	aisle 16 juice
-42.00	oz	apple juice	2	aisle 16 juice
+256.00	oz	whole milk	98	back left corner milk and eggs
+25.00	oz	oats	57	aisle 16 breakfast
+54.00	oz	cranberry juice	27	aisle 15 general
+14.00	oz	Greek yogurt	100	back center-left yogurt
 15.00	oz	protein yogurt	129	back center-left yogurt
-1.20	teaspoon	paprika	63	aisle 13 general
-0.50	teaspoon	thyme	103	aisle 12 general
-4.00	oz	dark chocolate	30	aisle 12 general
-11.50	oz	peanut butter - creamy	66	aisle 12 general
-5.00	oz	cream of chicken soup	28	aisle 12 general
-15.00	oz	chickpeas	104	aisle 11 general
-6.00	oz	pasta sauce	65	aisle 11 general
+32.00	oz	gogurt	41	back center-left yogurt
+3.20	oz	veggie straws	126	aisle 14 general
+12.00	oz	crackers	26	aisle 14 general
+5.00	oz	tomato sauce	93	aisle 13 general
+70.00	oz	mountain dew	54	aisle 13 general
+21.00	oz	sugar	89	aisle 12 general
+10.50	oz	dark chocolate	30	aisle 12 general
+0.75	oz	unsalted butter	95	back middle dairy
 16.00	oz	pasta	64	aisle 11 general
-12.00	oz	baby carrots	6	produce
-12.00	oz	potatoes	72	produce
-6.00	oz	pears	68	produce
-3.70	oz	oranges	59	produce
+5.00	oz	diced tomatoes	113	aisle 11 general
+0.40	oz	vitamins	97	aisle 9a health
+4.00	oz	sweet potato	90	produce
 20.10	oz	berries	12	produce
-9.10	oz	special produce	55	produce
+12.00	oz	baby carrots	6	produce
+11.15	oz	red peppers	75	produce
+4.00	oz	green beans	123	produce
+8.10	oz	celery	21	produce
+2.85	oz	cucumber	29	produce
+3.80	oz	bananas	11	produce
+12.70	oz	apples	3	produce
 2.20	oz	kiwi	125	produce
-16.00	oz	boneless skinless chicken breasts	14	meat case
-12.00	oz	salmon	81	seafood
-11.00	oz	meatballs	53	aisle 8 frozen
-4.00	oz	lima beans	51	aisle 8 frozen
-8.00	oz	frozen corn	36	aisle 8 frozen
+14.00	oz	fish sticks	35	aisle 8 frozen
+20.00	oz	sweet potato fries	91	aisle 8 frozen
+16.00	oz	stir fry vegetables	153	aisle 8 frozen

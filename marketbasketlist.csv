@@ -1,23 +1,30 @@
 amount	unit	description	id	location
-5	oz	cream of chicken soup	28	unknown
-16	oz	boneless skinless chicken breasts	14	unknown
-5	oz	protein yogurt	129	aisle 1
-128	oz	whole milk	98	aisle 1
-15	oz	chickpeas	104	aisle 3
-12	oz	salmon	81	aisle 3
-8	oz	pasta	64	aisle 5
-8	oz	pasta sauce	65	aisle 5
-0.7	oz	herbal tea	140	aisle 7
-14	oz	dishwasher detergent	32	aisle 11
-3	roll	toilet paper	92	aisle 13
-10	oz	soft bread	87	aisle 18
-10	oz	nuts	56	produce
-20.7	oz	berries	12	produce
-3.9	oz	oranges	59	produce
-0.3	oz	garlic	39	produce
-3.6	oz	bananas	11	produce
-12	oz	potatoes	72	produce
-9.9	oz	special produce	55	produce
-11	oz	meatballs	53	aisle 19
-12	oz	frozen peas	38	aisle 20
-8	oz	frozen corn	36	aisle 20
+256.00	oz	whole milk	98	aisle 1
+32.00	oz	gogurt	41	aisle 1
+15.00	oz	protein yogurt	129	aisle 1
+14.00	oz	Greek yogurt	100	aisle 1
+0.75	oz	unsalted butter	95	aisle 1
+25.00	oz	oats	57	aisle 4
+16.00	oz	pasta	64	aisle 5
+5.00	oz	diced tomatoes	113	aisle 5
+5.00	oz	tomato sauce	93	aisle 5
+54.00	oz	cranberry juice	27	aisle 6
+21.00	oz	sugar	89	aisle 7
+10.50	oz	dark chocolate	30	aisle 8
+3.20	oz	veggie straws	126	aisle 9
+0.40	oz	vitamins	97	aisle 13
+70.00	oz	mountain dew	54	aisle 17
+12.00	oz	crackers	26	aisle 18
+4.00	oz	sweet potato	90	produce
+20.10	oz	berries	12	produce
+12.00	oz	baby carrots	6	produce
+11.15	oz	red peppers	75	produce
+4.00	oz	green beans	123	produce
+8.10	oz	celery	21	produce
+2.85	oz	cucumber	29	produce
+3.80	oz	bananas	11	produce
+12.70	oz	apples	3	produce
+2.20	oz	kiwi	125	produce
+14.00	oz	fish sticks	35	aisle 20
+20.00	oz	sweet potato fries	91	aisle 20
+16.00	oz	stir fry vegetables	153	aisle 20

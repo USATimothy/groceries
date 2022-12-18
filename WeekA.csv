@@ -1,6 +1,7 @@
 dish_id	dish_name	quantity
 8	school snack	21
 12	home lunch	8
+10	hot chocolate	8
 11	Tim snacks	7
 33	beverages	7
 7	consumable supplies	7
@@ -20,7 +21,6 @@ dish_id	dish_name	quantity
 1	macaroni and cheese	0
 39	butternut squash ravioli	0
 40	pizza	0
-10	hot chocolate	0
 37	Mexican dip	0
 31	baked beans	0
 29	butternut squash soup	0

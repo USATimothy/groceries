@@ -1,4 +1,4 @@
-g#!/usr/bin/env python3
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #Written by Timothy Fleck
 #Started early 2022
@@ -105,14 +105,15 @@ for e in z:
 #conn.commit()
 
 #%% Get all ingredients needed for a single dish
-dish_id=8
+dish_id=7
 command= "select \
 ingredients.name, recipes.quantity, ingredients.unit from \
 recipes join ingredients on recipes.ingredient_id = ingredients.id \
 where recipes.dish_id=" + str(dish_id)+";"
 curs.execute(command)
 stuff=curs.fetchall()
-print(stuff)
+for thing in stuff:
+    print((thing[0] + ":  " + str(float(thing[1])) + " " + thing[2]))
 
 #%% Get all places where an ingredient is used
 ingredient_name = "olive oil"
